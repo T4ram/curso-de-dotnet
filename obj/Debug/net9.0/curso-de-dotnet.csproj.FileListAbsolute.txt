@@ -1,0 +1,15 @@
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\obj\Debug\net9.0\curso-de-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\obj\Debug\net9.0\curso-de-dotnet.AssemblyInfoInputs.cache
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\obj\Debug\net9.0\curso-de-dotnet.AssemblyInfo.cs
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\obj\Debug\net9.0\curso-de-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\obj\Debug\net9.0\curso-de-dotnet.sourcelink.json
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\bin\Debug\net9.0\curso-de-dotnet.exe
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\bin\Debug\net9.0\curso-de-dotnet.deps.json
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\bin\Debug\net9.0\curso-de-dotnet.runtimeconfig.json
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\bin\Debug\net9.0\curso-de-dotnet.dll
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\bin\Debug\net9.0\curso-de-dotnet.pdb
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\obj\Debug\net9.0\curso-de-dotnet.dll
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\obj\Debug\net9.0\refint\curso-de-dotnet.dll
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\obj\Debug\net9.0\curso-de-dotnet.pdb
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\obj\Debug\net9.0\curso-de-dotnet.genruntimeconfig.cache
+C:\Users\israe\OneDrive\Documentos\curso-de-dotnet\obj\Debug\net9.0\ref\curso-de-dotnet.dll

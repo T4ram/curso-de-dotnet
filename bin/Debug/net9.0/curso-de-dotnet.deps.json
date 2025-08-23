@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "curso-de-dotnet/1.0.0": {
+        "runtime": {
+          "curso-de-dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "curso-de-dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
