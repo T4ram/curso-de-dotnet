@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\israe\\OneDrive\\Documentos\\curso-de-dotnet\\program\\program.csproj",
-      "projectName": "program",
-      "projectPath": "C:\\Users\\israe\\OneDrive\\Documentos\\curso-de-dotnet\\program\\program.csproj",
+      "projectUniqueName": "C:\\Users\\israe\\OneDrive\\Documentos\\curso-de-dotnet\\curso-de-dotnet.csproj",
+      "projectName": "curso-de-dotnet",
+      "projectPath": "C:\\Users\\israe\\OneDrive\\Documentos\\curso-de-dotnet\\curso-de-dotnet.csproj",
       "packagesPath": "C:\\Users\\israe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\israe\\OneDrive\\Documentos\\curso-de-dotnet\\program\\obj\\",
+      "outputPath": "C:\\Users\\israe\\OneDrive\\Documentos\\curso-de-dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\israe\\AppData\\Roaming\\NuGet\\NuGet.Config"
