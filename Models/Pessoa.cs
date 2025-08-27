@@ -12,7 +12,7 @@ namespace curso_de_dotnet.Models
 
         public void Apresentar()
         {
-            Console.WriteLine($"Ola, meu nome e {Nome}, e tenho {Idade} anos");
+            Console.WriteLine($"Ola, meu nome e {Nome} e tenho {Idade} anos");
         }
     }
 }
